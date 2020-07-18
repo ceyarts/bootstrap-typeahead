@@ -1,0 +1,26 @@
+{
+  "name": "@ceyarts/bootstrap-typeahead",
+  "version": "1.0.0",
+  "description": "The typeahead autocomplete plugin for Twitter's Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceyarts/bootstrap-typeahead.git"
+  },
+  "keywords": [
+    "typeahead",
+    "autocomplete",
+    "plugin",
+    "jquery",
+    "bootstrap"
+  ],
+  "author": "Evren Ceyhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceyarts/bootstrap-typeahead/issues"
+  },
+  "homepage": "https://github.com/ceyarts/bootstrap-typeahead#readme"
+}
